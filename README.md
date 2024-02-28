@@ -1,1 +1,1 @@
-Hugging Face Transformers menggunakan teknik NLP
+Hugging Face Transformers menggunakan metode NLP
